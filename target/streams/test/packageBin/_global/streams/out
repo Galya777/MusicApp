@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/musicapp_3-1.0-tests.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IntegrationTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/test-classes/IntegrationTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IntegrationTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/test-classes/IntegrationTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musicapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/test-classes/musicapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musicapp/MusicAppTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/test-classes/musicapp/MusicAppTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musicapp/MusicAppTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/test-classes/musicapp/MusicAppTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IntegrationTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/galya777/IdeaProjects/Scala/FinalProject/MusicApp/target/scala-3.3.1/test-classes/IntegrationTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(musicapp.MusicAppTest, org.scalatest.tools.Framework$$anon$1@6cbd095c, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMusicAppTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should serialize and deserialize correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPlaylist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should serialize and deserialize correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCommand parser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should parse register command[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should parse login command[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should parse search command with multiple words[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should parse top command[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return error for invalid top command[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return error for unknown command[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAudioFormatInfo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be serializable to stream[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 259 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 9[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 9, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	musicapp.MusicAppTest[0m

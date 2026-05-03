@@ -1,0 +1,16 @@
+[2026-05-03 16:34:04] ERROR for user: testuser@fmi.bg
+Context: Streaming song: atlanticlights-atlantic-lights-jupiter-402615 - Unknown Artist
+Exception: javax.sound.sampled.UnsupportedAudioFileException: File of unsupported format
+  at java.desktop/javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1064)
+  at musicapp.server.audio.AudioStreamer.streamSongToSocket(AudioStreamer.scala:19)
+  at musicapp.server.ClientHandler.$anonfun$2(ClientHandler.scala:167)
+  at java.base/java.lang.Thread.run(Thread.java:1583)
+--------------------------------------------------------------------------------
+[2026-05-03 16:37:44] ERROR for user: testuser@fmi.bg
+Context: Streaming song: atlanticlights-atlantic-lights-jupiter-402615 - Unknown Artist
+Exception: javax.sound.sampled.UnsupportedAudioFileException: File of unsupported format
+  at java.desktop/javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1064)
+  at musicapp.server.audio.AudioStreamer.streamSongToSocket(AudioStreamer.scala:19)
+  at musicapp.server.ClientHandler.$anonfun$2(ClientHandler.scala:167)
+  at java.base/java.lang.Thread.run(Thread.java:1583)
+--------------------------------------------------------------------------------
